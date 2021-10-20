@@ -13,3 +13,8 @@ An integer value.
 ## Output
 
 A list of prime numbers. 
+
+For e.g. 
+
+getprimefactors(1000)
+[2,2,2,5,5,5] 
