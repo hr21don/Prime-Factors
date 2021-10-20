@@ -1,2 +1,15 @@
 # Prime-Factors
-   In pure Python Code... How to Start this project: Call the function 'getprimefactors(x)' and change the value of x  which will return a list containing all of its prime factors. 
+ How to Start this project: 
+ * Call the function 'getprimefactors(x)' 
+ * Change the value of x  which will return a list containing all of its prime factors. 
+
+## Challenge 
+Write a python function to find all the prime factors. 
+
+## Input 
+
+An integer value. 
+
+## Output
+
+A list of prime numbers. 
